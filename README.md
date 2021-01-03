@@ -1,6 +1,4 @@
-# kose-yazisi-uygulamasi
-
-> My kickass Nuxt.js project
+Melimelek 3.Ödev
 
 ## Build Setup
 
